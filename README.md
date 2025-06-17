@@ -52,7 +52,7 @@ Here’s a quick demo of the tool in action! 🎥
 
 ## 📂 Source Code
 
-🔗 [Click here to view the full source code on GitHub](https://github.com/your-username/wikipedia-article-scraper)
+🔗 [Click here to view the full source code on GitHub](https://github.com/AdithyaSalian23/wikipedia-article-scraper/blob/main/main.py)
 
 ---
 
