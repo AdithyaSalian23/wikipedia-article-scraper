@@ -46,7 +46,7 @@
 ## 📽️ Demo
 
 Here’s a quick demo of the tool in action! 🎥  
-📎 [Demo](screen-capture(2).gif)
+📎 [Demo](https://github.com/AdithyaSalian23/wikipedia-article-scraper/blob/main/screen-capture%20(2).gif)
 
 ---
 
