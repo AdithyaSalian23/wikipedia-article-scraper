@@ -1,51 +1,86 @@
-# 📚 Wikipedia Article Scraper
+<h1 align="center">📚 Wikipedia Article Scraper</h1>
 
-A simple and automated tool built with **Python** and **Selenium** that searches Wikipedia topics in a real Chrome browser, extracts the article title and the first meaningful paragraph, and displays the output in the terminal.
+<p align="center">
+  A fun and practical Python project that automates Wikipedia searches 🌐,
+  extracts titles 🏷️ and meaningful paragraphs ✍️ — all in a real browser session!
+</p>
 
 ---
 
 ## 🚀 Features
 
-- 🔍 Searches for multiple Wikipedia topics automatically
-- 🌐 Opens and interacts with a real Chrome browser
-- 📝 Extracts the article title and first meaningful paragraph
-- 📄 Displays results clearly in the terminal
+- 🔎 Automates Wikipedia search for multiple topics
+- 🧠 Extracts only meaningful article content (ignores empty or metadata paragraphs)
+- 🌍 Opens a real Chrome browser for visible interaction
+- 🖥️ Displays clean output in your terminal
 
 ---
 
-## 🛠️ Tools & Technologies Used
+## 🛠️ Tech Stack & Tools
 
-- 🐍 **Python**
-- 🧪 **Selenium WebDriver**
-- 🌐 **ChromeDriver**
-- ⏱️ **time module** for wait handling
-
----
-
-## 🎯 Use Cases
-
-- Learn web automation and browser control
-- Practice web scraping on structured content
-- Extract content summaries for study or research
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ChromeDriver-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</p>
 
 ---
 
-## 📂 How It Works
+## 💡 Skills Demonstrated
 
-1. The script launches Chrome and navigates to [Wikipedia](https://www.wikipedia.org/).
-2. It enters a search term, clicks the search button, and waits for the page to load.
-3. The script then scrapes the **title** and the **first meaningful paragraph** of the article.
-4. The output is printed in the terminal, and the browser closes after all searches are done.
-
----
-
-## 🤝 Contributions
-
-Feel free to fork, explore, and contribute to this project!
+- ✅ Web automation using Selenium WebDriver
+- ✅ HTML DOM parsing & element targeting
+- ✅ Dynamic content handling with browser waits
+- ✅ Real-time browser interaction with Chrome
 
 ---
 
-## 📬 Contact
+## 🎯 Real-World Applications
 
-For questions or feedback, feel free to reach out via LinkedIn or GitHub.
+- 📄 Quickly collect article summaries for learning, research, or reference
+- 🧪 Build foundational understanding of scraping structured websites
+- 🔁 Automate repetitive information-gathering tasks
 
+---
+
+## 📽️ Demo
+
+Here’s a quick demo of the tool in action! 🎥  
+📎 *(Upload your video above when using this README)*
+
+---
+
+## 📂 Source Code
+
+🔗 [Click here to view the full source code on GitHub](https://github.com/your-username/wikipedia-article-scraper)
+
+---
+
+## 📌 How to Use
+
+> **Step-by-step Overview:**
+
+1. Launches Chrome via `webdriver`.
+2. Searches the topic on [Wikipedia.org](https://www.wikipedia.org).
+3. Waits for page load and scrapes:
+   - ✅ Title (from `#firstHeading`)
+   - ✅ First meaningful `<p>` paragraph
+4. Repeats for a list of predefined terms.
+5. Outputs everything to your terminal and closes the browser.
+
+---
+
+## 🤝 Contributing
+
+Contributions, feedback, or ideas? Feel free to fork the repo or open an issue! Let's improve it together 💡
+
+---
+
+## 🙋‍♂️ Author
+
+👨‍💻 Created by [Adithya](https://www.linkedin.com/in/adithyasalian/)  
+📫 Reach me on GitHub or LinkedIn for collaborations!
+
+---
+
+⭐ **If you like this project, don’t forget to star it!** ⭐
