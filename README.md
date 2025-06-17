@@ -46,7 +46,7 @@
 ## 📽️ Demo
 
 Here’s a quick demo of the tool in action! 🎥  
-📎 *(Upload your video above when using this README)*
+📎 [Demo](screen-capture(2).gif)
 
 ---
 
