@@ -70,9 +70,8 @@ Here’s a quick demo of the tool in action! 🎥
 
 ---
 
-## 🤝 Contributing
-
-Contributions, feedback, or ideas? Feel free to fork the repo or open an issue! Let's improve it together 💡
+## 📝 License
+This project is open-source and free to use under the [MIT License](https://opensource.org/licenses/MIT).
 
 ---
 
@@ -80,7 +79,5 @@ Contributions, feedback, or ideas? Feel free to fork the repo or open an issue! 
 
 👨‍💻 Created by [Adithya](https://www.linkedin.com/in/adithyasalian/)  
 📫 Reach me on GitHub or LinkedIn for collaborations!
-
----
 
 ⭐ **If you like this project, don’t forget to star it!** ⭐
